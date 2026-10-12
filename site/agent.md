@@ -5,7 +5,7 @@
 - Snapshot date: `2026-09-13`
 - Entries: `115`
 - Categories: `13`
-- GitHub source records: `98` (`98` accessible at audit time)
+- GitHub source records: `98` (`97` accessible at audit time)
 - Scope: public benchmarks, controlled studies, and evaluation infrastructure relevant to agent harnesses
 
 ## Category counts
